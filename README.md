@@ -1,5 +1,6 @@
 SOUTHEASTERN SOUTH AMERICA POSITICE MEAN PRECIPITATION TREND AND ITS DRIVERS
 ============================================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787503.svg)](https://doi.org/10.5281/zenodo.6787503)
 
 Figure number: Figure 10.12
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
